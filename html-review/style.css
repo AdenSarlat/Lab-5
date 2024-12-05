@@ -1,0 +1,25 @@
+
+/* Hero Section */
+.hero {
+    background: url('1.jpg') no-repeat center;
+    color: white;
+    text-align: center;
+    padding: 100px 20px;
+}
+
+.hero h1 {
+    font-size: 3em;
+}
+
+/* Content Section */
+.content {
+    text-align: center;
+    padding: 20px;
+}
+
+.content h2 {
+    margin-bottom: 10px;
+    font-size: 2em;
+}
+
+
